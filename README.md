@@ -217,7 +217,7 @@ LC Loans             : 1,347,681    (97.8%)
 Total                : 1,378,681    (100%)
 ```
 
-⚡ Usage
+## ⚡ Usage
 
 Clone the repository:
 ```bash
@@ -243,7 +243,7 @@ python evaluate.py
 ```
 Note: Update the commands above according to the actual Python files and project structure in the repository.
 
-🔒 License
+## 🔒 License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 
