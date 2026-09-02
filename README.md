@@ -1,4 +1,4 @@
-# 🧠 Neural Network-Based Intelligent Credit Scoring System
+# Neural Network-Based Intelligent Credit Scoring System
 
 Credit scoring is a fundamental process in the banking and financial industry. Financial institutions must evaluate the creditworthiness of loan applicants to minimize default risk and financial loss.
 
