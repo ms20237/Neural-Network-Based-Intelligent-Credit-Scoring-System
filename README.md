@@ -32,7 +32,7 @@ This project aims to develop and evaluate a neural network-based credit scoring 
 
   * [🔄 Convert Datasets](#-convert-datasets)
   * [📌 Conversion of Each Dataset](#-points-of-convert-in-each-dataset)
-* [⚡ Usage](#-Usage)
+* [⚡ Usage](#-usage)
 * [🔒 License](#-license)
 ---
 
