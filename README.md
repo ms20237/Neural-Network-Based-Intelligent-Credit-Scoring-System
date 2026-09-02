@@ -32,7 +32,8 @@ This project aims to develop and evaluate a neural network-based credit scoring 
 
   * [🔄 Convert Datasets](#-convert-datasets)
   * [📌 Conversion of Each Dataset](#-points-of-convert-in-each-dataset)
-
+* [🔒 License](#-license)
+* [⚡ Usage](#-usage)
 ---
 
 # 📂 Datasets
@@ -215,3 +216,35 @@ LC Loans             : 1,347,681    (97.8%)
 ────────────────────────────────────────────
 Total                : 1,378,681    (100%)
 ```
+
+⚡ Usage
+
+Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+cd YOUR_REPOSITORY
+```
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Prepare the datasets and run the preprocessing pipeline:
+```bash
+python preprocessing.py
+```
+Then train the neural network:
+```bash
+python train.py
+```
+After training, evaluate the model:
+```bash
+python evaluate.py
+```
+Note: Update the commands above according to the actual Python files and project structure in the repository.
+
+🔒 License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+
+
