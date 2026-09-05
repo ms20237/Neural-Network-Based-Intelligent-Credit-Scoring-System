@@ -111,11 +111,11 @@ This dataset makes the system more **economically-aware**.
 
 ```text
 ┌──────────────────┬────────────────────────────────┐
-│ Dataset          │ What the Model Learns         │
+│ Dataset          │ What the Model Learns          │
 ├──────────────────┼────────────────────────────────┤
-│ Credit Card      │ Behavioral repayment patterns │
-│ German Credit    │ Structural financial stability│
-│ Lending Club     │ Modern credit scoring logic   │
+│ Credit Card      │ Behavioral repayment patterns  │
+│ German Credit    │ Structural financial stability │
+│ Lending Club     │ Modern credit scoring logic    │
 └──────────────────┴────────────────────────────────┘
 ```
 
